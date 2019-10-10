@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Your Name / Site Title"
+title                    : "Andre's CV and volunteering work"
 title_separator          : "-"
 name                     : &name "Andre Maia Chagas"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : amchagas
+  username               : chagas_am
 facebook:
   username               :
   app_id                 :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2609-3017"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -123,6 +123,7 @@ include:
   - _pages
   - files
 exclude:
+  - "about_bckup.md"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
