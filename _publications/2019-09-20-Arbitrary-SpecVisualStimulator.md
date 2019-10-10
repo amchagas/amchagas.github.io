@@ -6,7 +6,7 @@ excerpt: 'Visual neuroscientists require accurate control of visual stimulation.
 date: 2019-09-20
 venue: 'ELife'
 paperurl: 'https://elifesciences.org/articles/48779'
-citation: 'Your Name, You. (2019). &quot;Paper Title Number 1.&quot; <i>Venue </i>. 1(1).'
+citation: 'Franke, Katrin, André Maia Chagas, Zhijian Zhao, Maxime JY Zimmermann, Philipp Bartel, Yongrong Qiu, Klaudia P Szatko, Tom Baden, and Thomas Euler. (2019). &quot;An Arbitrary-Spectrum Spatial Visual Stimulator for Vision Research.&quot; <i>Elife </i>. 8(September).'
 ---
 
 [Download paper here](https://elifesciences.org/articles/48779)
