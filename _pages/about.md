@@ -24,6 +24,7 @@ In these pages you'll find information about what I've been doing over the past 
     - [GOSH community]()
     - [Mozilla Open Leaders]()
     - [Open Know How]()
+    
 ---
 
 If you are interested in this template, please go to its [repository](https://github.com/academicpages/academicpages.github.io) hosted by the [Academic pages group](https://github.com/academicpages).
