@@ -4,7 +4,7 @@ collection: teaching
 type: "workshop"
 permalink: /teaching/2018-capetown-workshop
 venue: "University of Cape Town, Department of Human Biology"
-date: 2017-06-28
+date: 2018-06-28
 location: "Cape Town,  South Africa"
 ---
 
