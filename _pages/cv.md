@@ -11,49 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Biology, University of Sao Paulo, 2008
+* M.Sc in Cellular and Molecular Neurosciences, University of Tuebingen, 2010
+* Ph.D in Neural and Behavioural Neurosciences, University of Tuebingen, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2010-2015: Research Assistant
+  * University of Tuebingen
+  * Duties included: Experiments and data analysis
+  * Supervisor: Professor Cornelius Schwarz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2016-2018: Research Assistant
+  * University of Tuebingen
+  * Duties included: Experiments, data analysis, hardware development
+  * Supervisor: Professor [Thomas Euler](http://eulerlab.de/)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Project Management
+* Coding
+  * Python
+  * Matlab
+  * OpenScad
+  * Igor
+* Version control
+  * Git/Github/Gitlab
+* Fast Prototyping
+  * 3D printing (OpenScad, FreeCad)
+  * Laser cutting
+* Electronics
+  * circuit design
+  * PCB design (KiCad, Fritzing)
+  * Microcontrollers (Arduino, ESP32)
+* Operating systems  
+  * Windows   
+  * GNU/Linux
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -20,11 +20,11 @@ In these pages you'll find information about what I've been doing over the past 
 - Too long, didn't read Volunteering:
   - I've been fortunate enough that my day job enables me to contribute some of my time to initiatives that help boost science and groups scientific independency all over the globe:
 
-    - [Trend in Africa]()
-    - [GOSH community]()
-    - [Mozilla Open Leaders]()
-    - [Open Know How]()
-    
+    - [Trend in Africa](trendinafrica.org)
+    - [GOSH community](https://forum.openhardware.science/)
+    - [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/)
+    - [Open Know How](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/src/branch/master/1)
+
 ---
 
 If you are interested in this template, please go to its [repository](https://github.com/academicpages/academicpages.github.io) hosted by the [Academic pages group](https://github.com/academicpages).
