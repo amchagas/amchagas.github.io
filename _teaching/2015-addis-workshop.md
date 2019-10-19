@@ -2,7 +2,7 @@
 title: "Open Labware: Build your own lab equipment using 3D printing and basic electronics – a 2 week intensive workshop"
 collection: teaching
 type: "workshop"
-permalink: /teaching/2015-Durban-workshop
+permalink: /teaching/2015-addis-workshop
 venue: "University of Addis Ababa, Department of Physiology and Anatomy"
 date: 2015-05-18
 location: "Addis Ababa, Ethiopia"
@@ -15,7 +15,7 @@ location: "Addis Ababa, Ethiopia"
 
 
 Duration: 2 weeks  
-Co-organizers: [Tom Baden](www.badenlab.org), [Tesfaye Tolessa](https://www.researchgate.net/profile/Tesfaye_Tolessa)  
+Organizers: [Andre M Chagas](www.github.com/amchagas), [Tom Baden](www.badenlab.org), [Tesfaye Tolessa](https://www.researchgate.net/profile/Tesfaye_Tolessa)  
 Funding: [Volkswagen Foundation](https://www.volkswagenstiftung.de/en)  
 Photos:
 [Trend's Flickr album](https://www.flickr.com/photos/trendinafrica/albums/72157653109908571)
