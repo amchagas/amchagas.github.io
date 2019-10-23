@@ -85,9 +85,9 @@ author:
   bio              : "Open Source enthusiast, developing tools for research and education"
   location         : "Brighton, UK"
   employer         : "University of Sussex"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=andre+maia+chagas"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=andre+maia+chagas"
   googlescholar    : "https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en"
-  email            : "andremaia.chagas@gmail.com"
+  email            : "a.maia-chagas@sussex.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
