@@ -182,6 +182,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  consulting:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -245,6 +248,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _consulting
+  - scope:
+      path: ""
+      type: consulting
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
 
 # Sass/SCSS
 sass:
