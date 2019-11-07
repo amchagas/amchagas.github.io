@@ -29,6 +29,10 @@ Work experience
 
 Skills
 ======
+* Languages
+  * English
+  * Portuguese
+  * German
 * Project Management
 * Coding
   * Python
