@@ -17,15 +17,17 @@ Education
 
 Work experience
 ======
+* 2016-2018: Research Assistant
+  * University of Tuebingen
+  * Duties included: Experiments, data analysis, hardware development
+  * Supervisor: Professor [Thomas Euler](http://eulerlab.de/)
+  
 * 2010-2015: Research Assistant
   * University of Tuebingen
   * Duties included: Experiments and data analysis
   * Supervisor: Professor Cornelius Schwarz
 
-* 2016-2018: Research Assistant
-  * University of Tuebingen
-  * Duties included: Experiments, data analysis, hardware development
-  * Supervisor: Professor [Thomas Euler](http://eulerlab.de/)
+
 
 Skills
 ======
