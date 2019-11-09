@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Andre's CV and volunteering work"
+title                    : "Open Science & Open Hardware"
 title_separator          : "-"
 name                     : &name "Andre Maia Chagas"
 description              : &description "personal description"
@@ -191,6 +191,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  #grants:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
@@ -257,6 +260,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  ## _grants
+  #- scope:
+  #    path: ""
+  #    type: grants
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
 
 
 # Sass/SCSS
