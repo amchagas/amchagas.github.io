@@ -17,16 +17,30 @@ Education
 
 Work experience
 ======
+* 2019-present: Research bioengineer
+  * [Department of Neurosciences](http://www.sussex.ac.uk/sussexneuroscience/) @ University of Sussex
+  * Duties: Research equipment development
+
+* 2018-2019: Research Technician
+  * [Baden lab](badenlab.org) @ University of Sussex
+  * Duties: Research equipment development
+
 * 2016-2018: Research Assistant
   * University of Tuebingen
-  * Duties included: Experiments, data analysis, hardware development
+  * Duties: Experiments, data analysis, research equipment development
   * Supervisor: Professor [Thomas Euler](http://eulerlab.de/)
-  
+
 * 2010-2015: Research Assistant
   * University of Tuebingen
-  * Duties included: Experiments and data analysis
+  * Duties: Experiments and data analysis
   * Supervisor: Professor Cornelius Schwarz
 
+Volunteer Work
+======
+* 2013-present:
+  * [Trend in Africa](trendinafrica.org) - Open Source Guru
+* 2019:
+  * [Mozilla Open Leaders X](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/) - [Open Source Hardware Champion](https://www.mozillapulse.org/profile/1550)
 
 
 Skills
