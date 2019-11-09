@@ -37,10 +37,18 @@ Work experience
 
 Volunteer Work
 ======
-* 2013-present:
-  * [Trend in Africa](trendinafrica.org) - Open Source Guru
-* 2019:
+
+* 2019-present:
+ - Open Know How
+
+* 2019-2020:
   * [Mozilla Open Leaders X](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/) - [Open Source Hardware Champion](https://www.mozillapulse.org/profile/1550)
+
+* 2017-present:
+  * GOSH community
+
+* 2013-present:
+    * [Trend in Africa](trendinafrica.org) - Open Source Guru
 
 
 Skills
