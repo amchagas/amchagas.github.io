@@ -1,5 +1,5 @@
 ---
-title: "Advanced Open Labware: Building and document research equipment"
+title: "Advanced Open Labware: Building and documenting research equipment"
 collection: teaching
 type: "workshop"
 permalink: /teaching/2018-capetown-workshop
