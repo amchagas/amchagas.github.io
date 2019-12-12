@@ -1,5 +1,5 @@
 ---
-title: "Advanced Open Labware: Building and document research equipment"
+title: "3D printing club"
 collection: teaching
 type: "workshop"
 permalink: /teaching/2018-brighton-printing-club
@@ -13,4 +13,4 @@ location: "Brighton,  England"
 
 
 Duration: summer term  
-Organizers: [Andre M Chagas](www.github.com/amchagas), [Maxime Zimmerman]()
+Organizers: [Andre M Chagas](www.github.com/amchagas), [Maxime Zimmerman](https://github.com/maxzimmer)
