@@ -39,13 +39,13 @@ Volunteer Work
 ======
 
 * 2019-present:
- - Open Know How
+ - [Open Know How](https://openknowhow.org/)
 
 * 2019-2020:
   * [Mozilla Open Leaders X](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/) - [Open Source Hardware Champion](https://www.mozillapulse.org/profile/1550)
 
 * 2017-present:
-  * GOSH community
+  * [GOSH community](https://forum.openhardware.science/)
 
 * 2013-present:
     * [Trend in Africa](trendinafrica.org) - Open Source Guru
