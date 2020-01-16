@@ -2,9 +2,9 @@
 title: "Open Science Hardware in the Biomedical Field"
 collection: talks
 type: "Workshop"
-permalink: /talks/2019-04-05-Argentina
+permalink: /talks/2018-04-05-Argentina
 venue: "Facultad de Ciencias Agrarias, UNC, Luján de Cuyo"
-date: 2029-04-05
+date: 2018-04-05
 location: "Mendoza, Argentina"
 ---
 
