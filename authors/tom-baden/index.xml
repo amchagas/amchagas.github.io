@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Baden | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/authors/tom-baden/</link>
+      <atom:link href="https://amchagas.github.io/authors/tom-baden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tom Baden</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tom Baden</title>
+      <link>https://amchagas.github.io/authors/tom-baden/</link>
+    </image>
+    
+    <item>
+      <title>An arbitrary-spectrum spatial visual stimulator for vision research</title>
+      <link>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An arbitrary-spectrum spatial visual stimulator for vision research</title>
+      <link>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans</title>
+      <link>https://amchagas.github.io/publication/chagas-100-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/chagas-100-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 100 Euro Lab: A 3-D Printable Open Source Platform For Fluorescence Microscopy, Optogenetics And Accurate Temperature Control During Behaviour Of Zebrafish, Drosophila And C. elegans</title>
+      <link>https://amchagas.github.io/publication/maia-chagas-100-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/maia-chagas-100-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Labware: 3-D Printing Your Own Lab Equipment</title>
+      <link>https://amchagas.github.io/publication/baden-open-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/baden-open-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
