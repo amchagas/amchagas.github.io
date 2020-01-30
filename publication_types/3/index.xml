@@ -5,12 +5,20 @@
     <link>https://amchagas.github.io/publication_types/3/</link>
       <atom:link href="https://amchagas.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>3</title>
       <link>https://amchagas.github.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>The temporal structure of the inner retina at a single glance</title>
+      <link>https://amchagas.github.io/publication/zhao-temporal-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/zhao-temporal-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An arbitrary-spectrum spatial visual stimulator for vision research</title>
