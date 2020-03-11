@@ -5,12 +5,20 @@
     <link>https://amchagas.github.io/</link>
       <atom:link href="https://amchagas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Andre Maia Chagas CV</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Fri, 11 Oct 2019 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Andre Maia Chagas CV</title>
       <link>https://amchagas.github.io/</link>
     </image>
+    
+    <item>
+      <title>The temporal structure of the inner retina at a single glance</title>
+      <link>https://amchagas.github.io/publication/zhao-temporal-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/zhao-temporal-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bringing Science to the 21 st century: Open Source tools for better research</title>
