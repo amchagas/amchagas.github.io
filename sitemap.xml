@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://amchagas.github.io/authors/andre/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://amchagas.github.io/publication_types/2/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -88,7 +93,17 @@
   </url>
   
   <url>
+    <loc>https://amchagas.github.io/authors/maxime/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://amchagas.github.io/authors/maxime-jy-zimmermann/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/authors/philipp/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,6 +148,11 @@
   </url>
   
   <url>
+    <loc>https://amchagas.github.io/authors/tom/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://amchagas.github.io/authors/tom-baden/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -140,6 +160,146 @@
   <url>
     <loc>https://amchagas.github.io/authors/zhijian-zhao/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/hyperspectral/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/ledzappelin/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/visual-neuroscience/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/visual-stimulator/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/arbitrarystim/</loc>
+    <lastmod>2020-02-18T15:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/stimulator/</loc>
+    <lastmod>2020-02-18T15:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/chemistry/</loc>
+    <lastmod>2020-02-18T14:41:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/mass-spectrometry/</loc>
+    <lastmod>2020-02-18T14:41:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/pipette-puller-adapter/</loc>
+    <lastmod>2020-02-18T14:41:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/behaviour/</loc>
+    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/categories/</loc>
+    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/categories/in-progress/</loc>
+    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/medassocaddon/</loc>
+    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/operant-conditioning/</loc>
+    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/pavlovian-conditioning/</loc>
+    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/skinner-box/</loc>
+    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/arduino/</loc>
+    <lastmod>2020-02-04T05:44:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/fmri/</loc>
+    <lastmod>2020-02-04T05:44:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/psychology/</loc>
+    <lastmod>2020-02-04T05:44:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/voltageamp/</loc>
+    <lastmod>2020-02-04T05:44:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/electrodecal/</loc>
+    <lastmod>2020-01-31T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/microfluidics/</loc>
+    <lastmod>2020-01-31T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/voltammetry/</loc>
+    <lastmod>2020-01-31T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/community-building/</loc>
+    <lastmod>2020-01-13T10:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/ohl/</loc>
+    <lastmod>2020-01-13T10:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/open-source-hardware/</loc>
+    <lastmod>2020-01-13T10:59:00+00:00</lastmod>
   </url>
   
   <url>
@@ -180,6 +340,11 @@
   <url>
     <loc>https://amchagas.github.io/authors/yongrong-qiu/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/bfosh/</loc>
+    <lastmod>2019-05-01T10:59:00+00:00</lastmod>
   </url>
   
   <url>
@@ -303,11 +468,6 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/open-source-hardware/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://amchagas.github.io/tags/open-source-software/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -319,11 +479,6 @@
   
   <url>
     <loc>https://amchagas.github.io/tags/scanning-probe-microscopy/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/tags/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -679,10 +834,6 @@
   
   <url>
     <loc>https://amchagas.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/categories/</loc>
   </url>
   
   <url>
