@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>neuroscience | Andre Maia Chagas CV</title>
-    <link>https://amchagas.github.io/tags/neuroscience/</link>
-      <atom:link href="https://amchagas.github.io/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
-    <description>neuroscience</description>
+    <title>visual | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tags/visual/</link>
+      <atom:link href="https://amchagas.github.io/tags/visual/index.xml" rel="self" type="application/rss+xml" />
+    <description>visual</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Thu, 26 Mar 2020 11:02:20 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>neuroscience</title>
-      <link>https://amchagas.github.io/tags/neuroscience/</link>
+      <title>visual</title>
+      <link>https://amchagas.github.io/tags/visual/</link>
     </image>
     
     <item>
@@ -22,14 +22,6 @@ Can be used to measure if visual stimulators are working correctly or to trigger
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/amchagas/fast-response-diode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Beyond GLMs: A Generative Mixture Modeling Approach to Neural System Identification</title>
-      <link>https://amchagas.github.io/publication/theis-beyond-2013/</link>
-      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://amchagas.github.io/publication/theis-beyond-2013/</guid>
-      <description></description>
     </item>
     
   </channel>

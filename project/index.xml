@@ -5,12 +5,24 @@
     <link>https://amchagas.github.io/project/</link>
       <atom:link href="https://amchagas.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Tue, 18 Feb 2020 15:58:59 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Thu, 26 Mar 2020 11:02:20 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
       <link>https://amchagas.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Fast Diode</title>
+      <link>https://amchagas.github.io/project/fastdiode/</link>
+      <pubDate>Thu, 26 Mar 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/fastdiode/</guid>
+      <description>&lt;p&gt;A project to support other developments at the workshop. An op-amp circuit that allows to read fast light transients.
+Can be used to measure if visual stimulators are working correctly or to trigger other systems.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/amchagas/fast-response-diode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>LED Zappelin</title>
