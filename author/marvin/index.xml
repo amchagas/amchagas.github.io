@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>marvin | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/author/marvin/</link>
+      <atom:link href="https://amchagas.github.io/author/marvin/index.xml" rel="self" type="application/rss+xml" />
+    <description>marvin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Sat, 18 Apr 2020 15:58:59 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>marvin</title>
+      <link>https://amchagas.github.io/author/marvin/</link>
+    </image>
+    
+    <item>
+      <title>Face Shields</title>
+      <link>https://amchagas.github.io/project/face-shields/</link>
+      <pubDate>Sat, 18 Apr 2020 15:58:59 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/face-shields/</guid>
+      <description>&lt;p&gt;Due to a faulty supply on PPE during the initial stages of the COVID-19 lockdown in the UK, we were put in touch with a local hospital that needed faceshields. Using an open source model, we used the Baden Lab laser cutter to make +100 of those.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

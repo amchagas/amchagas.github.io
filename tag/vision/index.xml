@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vision | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tag/vision/</link>
+      <atom:link href="https://amchagas.github.io/tag/vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>vision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Thu, 26 Mar 2020 11:02:20 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>vision</title>
+      <link>https://amchagas.github.io/tag/vision/</link>
+    </image>
+    
+    <item>
+      <title>Fast Diode</title>
+      <link>https://amchagas.github.io/project/fastdiode/</link>
+      <pubDate>Thu, 26 Mar 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/fastdiode/</guid>
+      <description>&lt;p&gt;A project to support other developments at the workshop. An op-amp circuit that allows to read fast light transients.
+Can be used to measure if visual stimulators are working correctly or to trigger other systems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/amchagas/fast-response-diode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LED Zappelin&#39;</title>
+      <link>https://amchagas.github.io/project/ledzappelin/</link>
+      <pubDate>Tue, 18 Feb 2020 15:58:59 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/ledzappelin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Visual Stimulator</title>
+      <link>https://amchagas.github.io/project/arbitrary-stim/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:56 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/arbitrary-stim/</guid>
+      <description>&lt;p&gt;Built as a collaboration of the &lt;a href=&#34;badenlab.org&#34;&gt;Baden lab&lt;/a&gt; and the &lt;a href=&#34;http://www.eye-tuebingen.de/eulerlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Euler Lab&lt;/a&gt;, this spatial stimulator is able to use most of the commercially available LEDs, making it quite flexible in terms of wavelength spectra. It can take up to 6 different LEDs and be synchronised with most microscope systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More details are available on its &lt;a href=&#34;https://elifesciences.org/articles/48779&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

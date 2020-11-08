@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>repair | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tag/repair/</link>
+      <atom:link href="https://amchagas.github.io/tag/repair/index.xml" rel="self" type="application/rss+xml" />
+    <description>repair</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Fri, 06 Nov 2020 11:00:56 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>repair</title>
+      <link>https://amchagas.github.io/tag/repair/</link>
+    </image>
+    
+    <item>
+      <title>Shaker repair</title>
+      <link>https://amchagas.github.io/project/shaker-repair/</link>
+      <pubDate>Fri, 06 Nov 2020 11:00:56 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/shaker-repair/</guid>
+      <description>&lt;p&gt;The belt responsible for translating motor movement to the shaking unit got worn out and broke off.
+using an elastic band we can get the device working again.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cage replacement part</title>
+      <link>https://amchagas.github.io/project/cage-floor/</link>
+      <pubDate>Tue, 06 Oct 2020 15:00:56 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/cage-floor/</guid>
+      <description>&lt;p&gt;Simple printed replacement for an acrylic part that broke off.
+Printed in PLA, it holds the metal rods composing the flooring of a mouse behavioural box&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

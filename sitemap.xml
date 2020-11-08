@@ -3,42 +3,252 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://amchagas.github.io/authors/andre/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/publication_types/2/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/tags/3d-printing/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/authors/andre-maia-chagas/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <loc>https://amchagas.github.io/author/</loc>
+    <lastmod>2020-11-06T11:00:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://amchagas.github.io/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-06T11:00:56+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://amchagas.github.io/authors/</loc>
+    <lastmod>2020-11-06T11:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/molecular/</loc>
+    <lastmod>2020-11-06T11:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/</loc>
+    <lastmod>2020-11-06T11:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/repair/</loc>
+    <lastmod>2020-11-06T11:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/shaker-repair/</loc>
+    <lastmod>2020-11-06T11:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tags/</loc>
+    <lastmod>2020-11-06T11:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/2-photon/</loc>
+    <lastmod>2020-11-06T11:00:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/electric-lens-driver/</loc>
+    <lastmod>2020-11-06T11:00:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/filip/</loc>
+    <lastmod>2020-11-06T11:00:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/microscopy/</loc>
+    <lastmod>2020-11-06T11:00:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/phillip/</loc>
+    <lastmod>2020-11-06T11:00:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/alex/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/andrew/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/behaviour/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/berndt/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/calibration/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/education/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/ni-medassociates_adapter/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/electrophysiology/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/eventer/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/fish-behaviour1/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/giles/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/julieta/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/lux-hum-temp-iot-monitor/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/medassociates/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/odour-stimulator/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/oliver/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/open-hardware-makers/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/pockel-cell-controller/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/repository/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/samuel/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/stimulator/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/thomas/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/tom/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/vr-goggles/</loc>
+    <lastmod>2020-11-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/cage-floor/</loc>
+    <lastmod>2020-10-06T15:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/open-neuroscience/</loc>
+    <lastmod>2020-10-06T15:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/pmt-combiner/</loc>
+    <lastmod>2020-08-03T11:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/community-building/</loc>
+    <lastmod>2020-07-13T10:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/ohl/</loc>
+    <lastmod>2020-07-13T10:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/open-source-hardware/</loc>
+    <lastmod>2020-07-13T10:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/face-shields/</loc>
+    <lastmod>2020-04-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/marvin/</loc>
+    <lastmod>2020-04-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/publication-type/2/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/equipment/</loc>
+    <loc>https://amchagas.github.io/tag/3d-printing/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/jennifer-c.-molloy/</loc>
+    <loc>https://amchagas.github.io/author/andre-maia-chagas/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/tag/equipment/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/author/jennifer-c.-molloy/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,17 +258,17 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/lucia-l.-prieto-godino/</loc>
+    <loc>https://amchagas.github.io/author/lucia-l.-prieto-godino/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/medical-devices-and-equipment/</loc>
+    <loc>https://amchagas.github.io/tag/medical-devices-and-equipment/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/open-source-software/</loc>
+    <loc>https://amchagas.github.io/tag/open-source-software/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,37 +283,27 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/respiratory-infections/</loc>
+    <loc>https://amchagas.github.io/tag/respiratory-infections/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/rna-extraction/</loc>
+    <loc>https://amchagas.github.io/tag/rna-extraction/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/safety-equipment/</loc>
+    <loc>https://amchagas.github.io/tag/safety-equipment/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/</loc>
+    <loc>https://amchagas.github.io/author/tom-baden/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/tom/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/authors/tom-baden/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/tags/ventilators/</loc>
+    <loc>https://amchagas.github.io/tag/ventilators/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,27 +313,22 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/neuroscience/</loc>
+    <loc>https://amchagas.github.io/tag/neuroscience/</loc>
     <lastmod>2020-03-26T11:02:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/project/</loc>
+    <loc>https://amchagas.github.io/tag/vision/</loc>
     <lastmod>2020-03-26T11:02:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/visual/</loc>
-    <lastmod>2020-03-26T11:02:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/publication_types/3/</loc>
+    <loc>https://amchagas.github.io/publication-type/3/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/jennifer-molloy/</loc>
+    <loc>https://amchagas.github.io/author/jennifer-molloy/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,47 +338,47 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/lucia-prieto-godino/</loc>
+    <loc>https://amchagas.github.io/author/lucia-prieto-godino/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/alexander-s.-ecker/</loc>
+    <loc>https://amchagas.github.io/author/alexander-s.-ecker/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/andre-m.-chagas/</loc>
+    <loc>https://amchagas.github.io/author/andre-m.-chagas/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/christian-behrens/</loc>
+    <loc>https://amchagas.github.io/author/christian-behrens/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/dario-a.-protti/</loc>
+    <loc>https://amchagas.github.io/author/dario-a.-protti/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/david-a.-klindt/</loc>
+    <loc>https://amchagas.github.io/author/david-a.-klindt/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/deniz-dalkara/</loc>
+    <loc>https://amchagas.github.io/author/deniz-dalkara/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/katrin-franke/</loc>
+    <loc>https://amchagas.github.io/author/katrin-franke/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/klaudia-p.-szatko/</loc>
+    <loc>https://amchagas.github.io/author/klaudia-p.-szatko/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,42 +388,32 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/luke-rogerson/</loc>
+    <loc>https://amchagas.github.io/author/luke-rogerson/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/matthias-bethge/</loc>
+    <loc>https://amchagas.github.io/author/matthias-bethge/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/maxime/</loc>
+    <loc>https://amchagas.github.io/author/maxime-jy-zimmermann/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/maxime-jy-zimmermann/</loc>
+    <loc>https://amchagas.github.io/author/philipp-bartel/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/philipp/</loc>
+    <loc>https://amchagas.github.io/author/philipp-berens/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/philipp-bartel/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/authors/philipp-berens/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/authors/sinziana-pop/</loc>
+    <loc>https://amchagas.github.io/author/sinziana-pop/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -238,22 +423,22 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/thomas-euler/</loc>
+    <loc>https://amchagas.github.io/author/thomas-euler/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/timm-schubert/</loc>
+    <loc>https://amchagas.github.io/author/timm-schubert/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/zhijian-zhao/</loc>
+    <loc>https://amchagas.github.io/author/zhijian-zhao/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/hyperspectral/</loc>
+    <loc>https://amchagas.github.io/tag/hyperspectral/</loc>
     <lastmod>2020-02-18T15:58:59+00:00</lastmod>
   </url>
   
@@ -263,32 +448,32 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/visual-neuroscience/</loc>
+    <loc>https://amchagas.github.io/author/maxime/</loc>
     <lastmod>2020-02-18T15:58:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/visual-stimulator/</loc>
+    <loc>https://amchagas.github.io/author/philipp/</loc>
     <lastmod>2020-02-18T15:58:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/project/arbitrarystim/</loc>
+    <loc>https://amchagas.github.io/tag/visual-neuroscience/</loc>
+    <lastmod>2020-02-18T15:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amchagas.github.io/project/arbitrary-stim/</loc>
     <lastmod>2020-02-18T15:00:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/stimulator/</loc>
-    <lastmod>2020-02-18T15:00:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/tags/chemistry/</loc>
+    <loc>https://amchagas.github.io/tag/chemistry/</loc>
     <lastmod>2020-02-18T14:41:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/mass-spectrometry/</loc>
+    <loc>https://amchagas.github.io/tag/mass-spectrometry/</loc>
     <lastmod>2020-02-18T14:41:57+00:00</lastmod>
   </url>
   
@@ -298,88 +483,53 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/behaviour/</loc>
-    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://amchagas.github.io/categories/</loc>
     <lastmod>2020-02-14T05:21:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/categories/in-progress/</loc>
+    <loc>https://amchagas.github.io/category/in-progress/</loc>
     <lastmod>2020-02-14T05:21:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/project/medassocaddon/</loc>
+    <loc>https://amchagas.github.io/project/medassoc-addon/</loc>
     <lastmod>2020-02-14T05:21:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/operant-conditioning/</loc>
-    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/tags/pavlovian-conditioning/</loc>
-    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/tags/skinner-box/</loc>
-    <lastmod>2020-02-14T05:21:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/tags/arduino/</loc>
+    <loc>https://amchagas.github.io/tag/arduino/</loc>
     <lastmod>2020-02-04T05:44:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/fmri/</loc>
+    <loc>https://amchagas.github.io/tag/fmri/</loc>
     <lastmod>2020-02-04T05:44:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/psychology/</loc>
+    <loc>https://amchagas.github.io/tag/psychology/</loc>
     <lastmod>2020-02-04T05:44:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/project/voltageamp/</loc>
+    <loc>https://amchagas.github.io/project/voltage-amp/</loc>
     <lastmod>2020-02-04T05:44:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/project/electrodecal/</loc>
+    <loc>https://amchagas.github.io/project/electrode-cal/</loc>
     <lastmod>2020-01-31T11:02:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/microfluidics/</loc>
+    <loc>https://amchagas.github.io/tag/microfluidics/</loc>
     <lastmod>2020-01-31T11:02:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/voltammetry/</loc>
+    <loc>https://amchagas.github.io/tag/voltammetry/</loc>
     <lastmod>2020-01-31T11:02:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/tags/community-building/</loc>
-    <lastmod>2020-01-13T10:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/project/ohl/</loc>
-    <lastmod>2020-01-13T10:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amchagas.github.io/tags/open-source-hardware/</loc>
-    <lastmod>2020-01-13T10:59:00+00:00</lastmod>
   </url>
   
   <url>
@@ -393,12 +543,12 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/alexander-ecker/</loc>
+    <loc>https://amchagas.github.io/author/alexander-ecker/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/david-klindt/</loc>
+    <loc>https://amchagas.github.io/author/david-klindt/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -413,12 +563,12 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/klaudia-p-szatko/</loc>
+    <loc>https://amchagas.github.io/author/klaudia-p-szatko/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/yongrong-qiu/</loc>
+    <loc>https://amchagas.github.io/author/yongrong-qiu/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -433,12 +583,12 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/klaudia-szatko/</loc>
+    <loc>https://amchagas.github.io/author/klaudia-szatko/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/maxime-j.-y.-zimmermann/</loc>
+    <loc>https://amchagas.github.io/author/maxime-j.-y.-zimmermann/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -448,7 +598,7 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/maxime-zimmermann/</loc>
+    <loc>https://amchagas.github.io/author/maxime-zimmermann/</loc>
     <lastmod>2019-04-03T17:30:00+00:00</lastmod>
   </url>
   
@@ -483,22 +633,22 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/eric-james-mcdermott/</loc>
+    <loc>https://amchagas.github.io/author/eric-james-mcdermott/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/simone-monachino/</loc>
+    <loc>https://amchagas.github.io/author/simone-monachino/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/publication_types/1/</loc>
+    <loc>https://amchagas.github.io/publication-type/1/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/a.-m.-chagas/</loc>
+    <loc>https://amchagas.github.io/author/a.-m.-chagas/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -508,27 +658,27 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/kevin-j.-land/</loc>
+    <loc>https://amchagas.github.io/author/kevin-j.-land/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/l.-bezuidenhout/</loc>
+    <loc>https://amchagas.github.io/author/l.-bezuidenhout/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/suzanne-smith/</loc>
+    <loc>https://amchagas.github.io/author/suzanne-smith/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/cameras/</loc>
+    <loc>https://amchagas.github.io/tag/cameras/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/cell-phones/</loc>
+    <loc>https://amchagas.github.io/tag/cell-phones/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -538,17 +688,17 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/light-microscopy/</loc>
+    <loc>https://amchagas.github.io/tag/light-microscopy/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/scanning-electron-microscopy/</loc>
+    <loc>https://amchagas.github.io/tag/scanning-electron-microscopy/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/scanning-probe-microscopy/</loc>
+    <loc>https://amchagas.github.io/tag/scanning-probe-microscopy/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -588,12 +738,12 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/austin-morgan-quinn/</loc>
+    <loc>https://amchagas.github.io/author/austin-morgan-quinn/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/benjamin-paffhausen/</loc>
+    <loc>https://amchagas.github.io/author/benjamin-paffhausen/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -603,32 +753,32 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/aristides-b.-arrenberg/</loc>
+    <loc>https://amchagas.github.io/author/aristides-b.-arrenberg/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/drosophila-melanogaster/</loc>
+    <loc>https://amchagas.github.io/tag/drosophila-melanogaster/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/fluorescence-imaging/</loc>
+    <loc>https://amchagas.github.io/tag/fluorescence-imaging/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/fluorescence-microscopy/</loc>
+    <loc>https://amchagas.github.io/tag/fluorescence-microscopy/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/larvae/</loc>
+    <loc>https://amchagas.github.io/tag/larvae/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/light-emitting-diodes/</loc>
+    <loc>https://amchagas.github.io/tag/light-emitting-diodes/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -638,7 +788,7 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/zebrafish/</loc>
+    <loc>https://amchagas.github.io/tag/zebrafish/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -653,7 +803,7 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/aristides-b-arrenberg/</loc>
+    <loc>https://amchagas.github.io/author/aristides-b-arrenberg/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -673,22 +823,22 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/computer-hardware/</loc>
+    <loc>https://amchagas.github.io/tag/computer-hardware/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/computers/</loc>
+    <loc>https://amchagas.github.io/tag/computers/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/electronics/</loc>
+    <loc>https://amchagas.github.io/tag/electronics/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/greg-gage/</loc>
+    <loc>https://amchagas.github.io/author/greg-gage/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -698,17 +848,17 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/schools/</loc>
+    <loc>https://amchagas.github.io/tag/schools/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/software-tools/</loc>
+    <loc>https://amchagas.github.io/tag/software-tools/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/timothy-marzullo/</loc>
+    <loc>https://amchagas.github.io/author/timothy-marzullo/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -718,62 +868,62 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/cellular-neuroscience/</loc>
+    <loc>https://amchagas.github.io/tag/cellular-neuroscience/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/cornelius-schwarz/</loc>
+    <loc>https://amchagas.github.io/author/cornelius-schwarz/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/daniel-arnstein/</loc>
+    <loc>https://amchagas.github.io/author/daniel-arnstein/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/generalized-linear-model/</loc>
+    <loc>https://amchagas.github.io/tag/generalized-linear-model/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/linear-filters/</loc>
+    <loc>https://amchagas.github.io/tag/linear-filters/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/lucas-theis/</loc>
+    <loc>https://amchagas.github.io/author/lucas-theis/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/neurons/</loc>
+    <loc>https://amchagas.github.io/tag/neurons/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/probability-distribution/</loc>
+    <loc>https://amchagas.github.io/tag/probability-distribution/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/statistical-models/</loc>
+    <loc>https://amchagas.github.io/tag/statistical-models/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/vibrissae/</loc>
+    <loc>https://amchagas.github.io/tag/vibrissae/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/open-hardware/</loc>
+    <loc>https://amchagas.github.io/tag/open-hardware/</loc>
     <lastmod>2013-06-17T14:40:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/open-science/</loc>
+    <loc>https://amchagas.github.io/tag/open-science/</loc>
     <lastmod>2013-06-17T14:40:27+00:00</lastmod>
   </url>
   
@@ -783,7 +933,7 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/biswa-sengupta/</loc>
+    <loc>https://amchagas.github.io/author/biswa-sengupta/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -793,72 +943,72 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/information-theory/</loc>
+    <loc>https://amchagas.github.io/tag/information-theory/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/maik-christopher-stuttgen/</loc>
+    <loc>https://amchagas.github.io/author/maik-christopher-stuttgen/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/primary-afferents/</loc>
+    <loc>https://amchagas.github.io/tag/primary-afferents/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/rat/</loc>
+    <loc>https://amchagas.github.io/tag/rat/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/spike-triggered-mixture-model/</loc>
+    <loc>https://amchagas.github.io/tag/spike-triggered-mixture-model/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/tactile-coding/</loc>
+    <loc>https://amchagas.github.io/tag/tactile-coding/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/whisker/</loc>
+    <loc>https://amchagas.github.io/tag/whisker/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/amygdala/</loc>
+    <loc>https://amchagas.github.io/tag/amygdala/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/cindy-boden/</loc>
+    <loc>https://amchagas.github.io/author/cindy-boden/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/cognitive-impairment/</loc>
+    <loc>https://amchagas.github.io/tag/cognitive-impairment/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/genetically-modified-animals/</loc>
+    <loc>https://amchagas.github.io/tag/genetically-modified-animals/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/heinrich-schell/</loc>
+    <loc>https://amchagas.github.io/author/heinrich-schell/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/hippocampus/</loc>
+    <loc>https://amchagas.github.io/tag/hippocampus/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/immunostaining/</loc>
+    <loc>https://amchagas.github.io/tag/immunostaining/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -868,27 +1018,27 @@
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/mice/</loc>
+    <loc>https://amchagas.github.io/tag/mice/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/mouse-models/</loc>
+    <loc>https://amchagas.github.io/tag/mouse-models/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/philipp-j.-kahle/</loc>
+    <loc>https://amchagas.github.io/author/philipp-j.-kahle/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/tags/synaptic-plasticity/</loc>
+    <loc>https://amchagas.github.io/tag/synaptic-plasticity/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amchagas.github.io/authors/admin/</loc>
+    <loc>https://amchagas.github.io/author/nelson-bighetti/</loc>
   </url>
   
   <url>

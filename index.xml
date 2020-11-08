@@ -5,12 +5,188 @@
     <link>https://amchagas.github.io/</link>
       <atom:link href="https://amchagas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Andre Maia Chagas CV</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Fri, 06 Nov 2020 11:00:56 +0000</lastBuildDate>
     <image>
       <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Andre Maia Chagas CV</title>
       <link>https://amchagas.github.io/</link>
     </image>
+    
+    <item>
+      <title>Shaker repair</title>
+      <link>https://amchagas.github.io/project/shaker-repair/</link>
+      <pubDate>Fri, 06 Nov 2020 11:00:56 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/shaker-repair/</guid>
+      <description>&lt;p&gt;The belt responsible for translating motor movement to the shaking unit got worn out and broke off.
+using an elastic band we can get the device working again.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electric lens driver</title>
+      <link>https://amchagas.github.io/project/electric-lens-driver/</link>
+      <pubDate>Fri, 06 Nov 2020 11:00:33 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/electric-lens-driver/</guid>
+      <description>&lt;p&gt;Described in the &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/821405v1.full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBO Scope paper&lt;/a&gt;, this driver can be used to control electric tunable lenses. These lenses are used for fast Z-axis scans.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electronics to couple NI cards and Med-associates system</title>
+      <link>https://amchagas.github.io/project/ni-medassociates_adapter/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/ni-medassociates_adapter/</guid>
+      <description>&lt;p&gt;Developed as a quick solution this system takes 5V signals from NI and triggers digital inputs on MedAssociates systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eventer model repository</title>
+      <link>https://amchagas.github.io/project/eventer/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/eventer/</guid>
+      <description>&lt;p&gt;From the &lt;a href=&#34;https://eventerneuro.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eventer homepage&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Eventer is a programme designed for the detection of spontaneous synaptic events measured by electrophysiology or imaging. The software combines deconvolution for detection, and variable length template matching approaches for screening out false positive events. Eventer also includes a machine learning-based approach allowing users to train a model to implement their ‘expert’ selection criteria across data sets without bias. Sharing models allows users to implement consistent analysis procedures. The software is coded in MATLAB, but has been compiled as standalone applications for Windows, Mac and Linux.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eventer enables rapid, reproducible and unbiased analysis of synaptic events. To further aid in enhancing reproducability across laboratories, this repository has been established to enable sharing of models trained across a range of model systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fish tracking system</title>
+      <link>https://amchagas.github.io/project/fish-behaviour1/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/fish-behaviour1/</guid>
+      <description>&lt;p&gt;In collaboration with Dr. Emma Kenyon and Ilaria Montano we are setting up a multicamera system to record zebrafish activity over long periods of time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lux, humidity and temperatur IOT monitor</title>
+      <link>https://amchagas.github.io/project/lux-hum-temp-iot-monitor/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/lux-hum-temp-iot-monitor/</guid>
+      <description>&lt;p&gt;This system was developed as an tool to warn researchers about environmental conditions that are out of range in the animal facility rooms. Connected to the web, this system sends phone and email notifications when a custom condition is met.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Odour stimulator</title>
+      <link>https://amchagas.github.io/project/odour-stimulator/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/odour-stimulator/</guid>
+      <description>&lt;p&gt;This open source stimulator is based on previous work by a different group. Their work is published  &lt;a href=&#34;https://www.pnas.org/content/111/47/16925&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2589004218300646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://academic.oup.com/chemse/article/42/2/141/2709444&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;some-information-about-this-project&#34;&gt;Some information about this project:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;developed as part of the work of the &lt;a href=&#34;https://www.sussex.ac.uk/research/centres/sussex-neuroscience/phd/4yearphd/supervisors/circuits-projects/thomas-nowotny-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nowotny lab&lt;/a&gt; and it is being setup initially for experiments with flies.&lt;/li&gt;
+&lt;li&gt;The reason we are publicly documenting things is that since the original papers describing the stimulator came out, some enabling technology has become widely available, which makes setting this up simpler and less expensive. This write up is our attempt to document this.&lt;/li&gt;
+&lt;li&gt;Some documentation of the orignal stimulator is already publicly available on &lt;a href=&#34;https://github.com/grg2rsr/OlfactoryStimulator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github already&lt;/a&gt;, unfortunately some of the schematics are only in PDF format (which prevents fast conversion to PCBs) and some of the CAD files are in a proprietary format, that officially can only be read with &amp;ldquo;Autodesk Inventor&amp;rdquo;. Luckily there is a &lt;a href=&#34;https://github.com/jmplonka/InventorLoader/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plugin for FreeCad&lt;/a&gt; that allows the conversion to a more open format.  This derivative will share orignal files that can be modified using open source sofware.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Hardware Makers</title>
+      <link>https://amchagas.github.io/project/open-hardware-makers/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/open-hardware-makers/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://openhardware.space/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Hardware Makers&lt;/a&gt; is an online training series, based on the &lt;a href=&#34;https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Open Leaders program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The goal is to teach best practices that will make open source hardware projects easy to adopt, use and contribute.&lt;/p&gt;
+&lt;p&gt;Developed as a collaboration between:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/Cassandreces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julieta Arancio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/chagas_am&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andre Maia Chagas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/alexwastooshort&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Kutschera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;sponsored by the &lt;a href=&#34;https://foundation.mozilla.org/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla foundation&lt;/a&gt; and supported by &lt;a href=&#34;https://trendinafrica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trend in Africa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pockel cell controller</title>
+      <link>https://amchagas.github.io/project/pockel-cell-controller/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/pockel-cell-controller/</guid>
+      <description>&lt;p&gt;An open source circuit to modulate laser intensity in a 2 Photon microscope.&lt;/p&gt;
+&lt;p&gt;This modulation is necessary when visual stimulation is used to elicit responses from biological tissue (photoreceptors).&lt;/p&gt;
+&lt;p&gt;The laser power is tunned high and low periodically (in our systems at 500Hz using a square wavefom at 80% duty cycle). When laser power is low, visual stimulation is on, when laser power is high, visual stimulation is off.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VR/AR goggles</title>
+      <link>https://amchagas.github.io/project/vr-goggles/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/vr-goggles/</guid>
+      <description>&lt;p&gt;Based on online resources, we are simply putting together a model present in thingiverse, some cheap lenses and magnets bought on ebay.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cage replacement part</title>
+      <link>https://amchagas.github.io/project/cage-floor/</link>
+      <pubDate>Tue, 06 Oct 2020 15:00:56 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/cage-floor/</guid>
+      <description>&lt;p&gt;Simple printed replacement for an acrylic part that broke off.
+Printed in PLA, it holds the metal rods composing the flooring of a mouse behavioural box&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Neuroscience</title>
+      <link>https://amchagas.github.io/project/open-neuroscience/</link>
+      <pubDate>Tue, 06 Oct 2020 15:00:56 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/open-neuroscience/</guid>
+      <description>&lt;p&gt;Open Neuroscience is a user-driven database of Open Source/Science projects related to Neurosciences:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It serves as a curated space, where users can register their projects with short descriptions and topic classifications.&lt;/li&gt;
+&lt;li&gt;Registered content can be filtered, searched, and all projects in a certain topic quickly compared, so that users can find what is most fitting for their needs.&lt;/li&gt;
+&lt;li&gt;Having all projects listed under one place, also gives them visibility and hopefully helps in terms of bringing users/collaborators to them, making sure developing efforts are not wasted.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PMT signal combiner</title>
+      <link>https://amchagas.github.io/project/pmt-combiner/</link>
+      <pubDate>Mon, 03 Aug 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/pmt-combiner/</guid>
+      <description>&lt;p&gt;This project got started when there was the need to combine the signals coming out
+of two photo multiplier tubes (PMTs) installed in one of the 2-photon microscopes at the microscopy unit in Sussex Neuroscience.&lt;/p&gt;
+&lt;p&gt;The particular PMTs installed were models &lt;a href=&#34;https://www.thorlabs.com/thorproduct.cfm?partnumber=PMT2101/M&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PM2101&lt;/a&gt; from Thorlabs. This means that they are actually a &amp;ldquo;combo&amp;rdquo; of PMT plus current to voltage converter, and the output signal from the unit is voltage.&lt;/p&gt;
+&lt;p&gt;More technical details can be found on the project repository: &lt;a href=&#34;https://github.com/sussex-neuroscience/pmt-combiner/&#34;&gt;https://github.com/sussex-neuroscience/pmt-combiner/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Hardware Makers</title>
+      <link>https://amchagas.github.io/project/ohl/</link>
+      <pubDate>Mon, 13 Jul 2020 10:59:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/ohl/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://openhardware.space&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Hardware Makers&lt;/a&gt; is a mentoring program based on &lt;a href=&#34;&#34;&gt;Mozilla Open Leaders&lt;/a&gt;. Currently (07/2020) going through a public review of the curriculum, after a successfull run of the first pilot cohort.&lt;/p&gt;
+&lt;p&gt;People interested in reviewing the Currriculum can do so in this &lt;a href=&#34;https://docs.google.com/document/d/1eUr8ijDjvVCvfjzoUgXZhXm6O4glRkcoZODhcufV8Hg/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;document&lt;/a&gt; until July 27th 2020.&lt;/p&gt;
+&lt;p&gt;The organization of this project is a joint effort  (names in Alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/alexwastooshort&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexander Kutschera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/Chagas_AM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andre Maia Chagas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/Cassandreces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julieta Arancio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Face Shields</title>
+      <link>https://amchagas.github.io/project/face-shields/</link>
+      <pubDate>Sat, 18 Apr 2020 15:58:59 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/face-shields/</guid>
+      <description>&lt;p&gt;Due to a faulty supply on PPE during the initial stages of the COVID-19 lockdown in the UK, we were put in touch with a local hospital that needed faceshields. Using an open source model, we used the Baden Lab laser cutter to make +100 of those.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Leveraging open hardware to alleviate the burden of COVID-19 on global health systems</title>
@@ -27,8 +203,7 @@
       <guid>https://amchagas.github.io/project/fastdiode/</guid>
       <description>&lt;p&gt;A project to support other developments at the workshop. An op-amp circuit that allows to read fast light transients.
 Can be used to measure if visual stimulators are working correctly or to trigger other systems.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/amchagas/fast-response-diode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/amchagas/fast-response-diode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -57,7 +232,7 @@ Can be used to measure if visual stimulators are working correctly or to trigger
     </item>
     
     <item>
-      <title>LED Zappelin</title>
+      <title>LED Zappelin&#39;</title>
       <link>https://amchagas.github.io/project/ledzappelin/</link>
       <pubDate>Tue, 18 Feb 2020 15:58:59 +0000</pubDate>
       <guid>https://amchagas.github.io/project/ledzappelin/</guid>
@@ -66,14 +241,11 @@ Can be used to measure if visual stimulators are working correctly or to trigger
     
     <item>
       <title>Open Visual Stimulator</title>
-      <link>https://amchagas.github.io/project/arbitrarystim/</link>
+      <link>https://amchagas.github.io/project/arbitrary-stim/</link>
       <pubDate>Tue, 18 Feb 2020 15:00:56 +0000</pubDate>
-      <guid>https://amchagas.github.io/project/arbitrarystim/</guid>
-      <description>&lt;p&gt;Built as a collaboration of the 
-&lt;a href=&#34;badenlab.org&#34;&gt;Baden lab&lt;/a&gt; and the 
-&lt;a href=&#34;http://www.eye-tuebingen.de/eulerlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Euler Lab&lt;/a&gt;, this spatial stimulator is able to use most of the commercially available LEDs, making it quite flexible in terms of wavelength spectra. It can take up to 6 different LEDs and be synchronised with most microscope systems.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;More details are available on its 
-&lt;a href=&#34;https://elifesciences.org/articles/48779&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+      <guid>https://amchagas.github.io/project/arbitrary-stim/</guid>
+      <description>&lt;p&gt;Built as a collaboration of the &lt;a href=&#34;badenlab.org&#34;&gt;Baden lab&lt;/a&gt; and the &lt;a href=&#34;http://www.eye-tuebingen.de/eulerlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Euler Lab&lt;/a&gt;, this spatial stimulator is able to use most of the commercially available LEDs, making it quite flexible in terms of wavelength spectra. It can take up to 6 different LEDs and be synchronised with most microscope systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More details are available on its &lt;a href=&#34;https://elifesciences.org/articles/48779&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -82,74 +254,38 @@ Can be used to measure if visual stimulators are working correctly or to trigger
       <link>https://amchagas.github.io/project/pipette-puller-adapter/</link>
       <pubDate>Tue, 18 Feb 2020 14:41:57 +0000</pubDate>
       <guid>https://amchagas.github.io/project/pipette-puller-adapter/</guid>
-      <description>&lt;p&gt;Developed for Dr. Eravci at the 
-&lt;a href=&#34;http://www.sussex.ac.uk/lifesci/internal/servicesandsupport/facilitiesandresources/massspectrometry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mass Spectrometry&lt;/a&gt; unit, this 3D printed adapter is used to hold polyamide tubes in a pipette puller.&lt;/p&gt;
+      <description>&lt;p&gt;Developed for Dr. Eravci at the &lt;a href=&#34;http://www.sussex.ac.uk/lifesci/internal/servicesandsupport/facilitiesandresources/massspectrometry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mass Spectrometry&lt;/a&gt; unit, this 3D printed adapter is used to hold polyamide tubes in a pipette puller.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Med Associates Add-On</title>
-      <link>https://amchagas.github.io/project/medassocaddon/</link>
+      <link>https://amchagas.github.io/project/medassoc-addon/</link>
       <pubDate>Fri, 14 Feb 2020 05:21:12 +0000</pubDate>
-      <guid>https://amchagas.github.io/project/medassocaddon/</guid>
-      <description>&lt;p&gt;This is being developed for the 
-&lt;a href=&#34;http://www.sussex.ac.uk/profiles/206917/publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crombag lab&lt;/a&gt; as well as the 
-&lt;a href=&#34;http://www.sussex.ac.uk/psychology/koyaensemblelab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koya Lab&lt;/a&gt;. The goal is to create a &amp;ldquo;translator&amp;rdquo; that allows for the use of off-the-shelf electronics and DIY solutions with the Med Associates systems. This way experiments can be programmed the same way as before, but with more flexibility in terms of what can be achieved, at a much faster pace. In other words this systems takes digital and analog signals (normally around 5V) and converts them to 28V triggers that med associates systems detects. It can also take the 28V signals coming from med associates and trigger other custom electronics.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/Sussex-Neuroscience/med-associates-addon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>https://amchagas.github.io/project/medassoc-addon/</guid>
+      <description>&lt;p&gt;This is being developed for the &lt;a href=&#34;http://www.sussex.ac.uk/profiles/206917/publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crombag lab&lt;/a&gt; as well as the &lt;a href=&#34;http://www.sussex.ac.uk/psychology/koyaensemblelab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koya Lab&lt;/a&gt;. The goal is to create a &amp;ldquo;translator&amp;rdquo; that allows for the use of off-the-shelf electronics and DIY solutions with the Med Associates systems. This way experiments can be programmed the same way as before, but with more flexibility in terms of what can be achieved, at a much faster pace. In other words this systems takes digital and analog signals (normally around 5V) and converts them to 28V triggers that med associates systems detects. It can also take the 28V signals coming from med associates and trigger other custom electronics.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Sussex-Neuroscience/med-associates-addon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Voltage amplifier</title>
-      <link>https://amchagas.github.io/project/voltageamp/</link>
+      <link>https://amchagas.github.io/project/voltage-amp/</link>
       <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
-      <guid>https://amchagas.github.io/project/voltageamp/</guid>
-      <description>&lt;p&gt;This system was developed as part of a research project of the 
-&lt;a href=&#34;http://www.sussex.ac.uk/profiles/92444/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ward Lab&lt;/a&gt;. It is to be used with a stimulus isolation adaptor from BIOPAC, more specifically one of the models that provide isolated voltage: &lt;a href=&#34;https://www.biopac.com/product/stimulus-isolation-adapters/&#34;&gt;https://www.biopac.com/product/stimulus-isolation-adapters/&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://amchagas.github.io/project/voltage-amp/</guid>
+      <description>&lt;p&gt;This system was developed as part of a research project of the &lt;a href=&#34;http://www.sussex.ac.uk/profiles/92444/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ward Lab&lt;/a&gt;. It is to be used with a stimulus isolation adaptor from BIOPAC, more specifically one of the models that provide isolated voltage: &lt;a href=&#34;https://www.biopac.com/product/stimulus-isolation-adapters/&#34;&gt;https://www.biopac.com/product/stimulus-isolation-adapters/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The idea is simple, we use the true analog output ports from the Arduino DUE as an independent channel and amplify their signals using Operational amplifiers. In this case two LM741 from Texas instruments. Using serial communication the system can be controlled in various ways, from the Arduino IDE to whatever programming languages (Python, Matlab, etc).&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/Sussex-Neuroscience/voltage-amplifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Sussex-Neuroscience/voltage-amplifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Electrode calibration</title>
-      <link>https://amchagas.github.io/project/electrodecal/</link>
+      <link>https://amchagas.github.io/project/electrode-cal/</link>
       <pubDate>Fri, 31 Jan 2020 11:02:20 +0000</pubDate>
-      <guid>https://amchagas.github.io/project/electrodecal/</guid>
-      <description>&lt;p&gt;A project developed for the 
-&lt;a href=&#34;www.sussex.ac.uk/profiles/454349/research&#34;&gt;Singer Lab&lt;/a&gt;, based on 
-&lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration/blob/master/literature/Sinkala%20et%20al.%20-%202012%20-%20Electrode%20calibration%20with%20a%20microfluidic%20flow%20cell%20for%20fast-scan%20cyclic%20voltammetry.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sinkala et al 2012&lt;/a&gt; we developed a 3D printable microfluidic chamber for electrode calibration. These calibrated electrodes are normally used in Voltammetry applications.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open Hardware Leaders</title>
-      <link>https://amchagas.github.io/project/ohl/</link>
-      <pubDate>Mon, 13 Jan 2020 10:59:00 +0000</pubDate>
-      <guid>https://amchagas.github.io/project/ohl/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://openhardware4.me&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Hardware Leaders&lt;/a&gt; is a mentoring program based on 
-&lt;a href=&#34;&#34;&gt;Mozilla Open Leaders&lt;/a&gt;. Currently (03/2020) going through its first cohort, the program can be summarized as follows:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;&#34;&gt;Mentees&lt;/a&gt; interested in learning best practices for making their hardware projects truly open are paired with 
-&lt;a href=&#34;&#34;&gt;mentors&lt;/a&gt; that will support them navigate the 
-&lt;a href=&#34;&#34;&gt;program curriculum&lt;/a&gt; over the course of 14 weeks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The organization of this project is a joint effort  (names in Alphabetical order):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;&#34;&gt;Alexander Kutschera&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Andre Maia Chagas&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;&#34;&gt;Jose Carlos Urra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;&#34;&gt;Julieta Arancio&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://amchagas.github.io/project/electrode-cal/</guid>
+      <description>&lt;p&gt;A project developed for the &lt;a href=&#34;www.sussex.ac.uk/profiles/454349/research&#34;&gt;Singer Lab&lt;/a&gt;, based on &lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration/blob/master/literature/Sinkala%20et%20al.%20-%202012%20-%20Electrode%20calibration%20with%20a%20microfluidic%20flow%20cell%20for%20fast-scan%20cyclic%20voltammetry.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sinkala et al 2012&lt;/a&gt; we developed a 3D printable microfluidic chamber for electrode calibration. These calibrated electrodes are normally used in Voltammetry applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -182,10 +318,7 @@ Can be used to measure if visual stimulators are working correctly or to trigger
       <link>https://amchagas.github.io/project/bfosh/</link>
       <pubDate>Wed, 01 May 2019 10:59:00 +0000</pubDate>
       <guid>https://amchagas.github.io/project/bfosh/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://fosh-following-demand.github.io/en/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BFOSH&lt;/a&gt; is a mentoring program developed during my fellowship with 
-&lt;a href=&#34;&#34;&gt;Mozilla&lt;/a&gt; and 
-&lt;a href=&#34;&#34;&gt;Freies Wissen&lt;/a&gt;. It can be summarized as follows:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://fosh-following-demand.github.io/en/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BFOSH&lt;/a&gt; is a mentoring program developed during my fellowship with &lt;a href=&#34;&#34;&gt;Mozilla&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;Freies Wissen&lt;/a&gt;. It can be summarized as follows:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;In order to increase the reach and importance of Open Source Hardware in Science, we should developing research and educational tools based on demand.&lt;/li&gt;
 &lt;li&gt;To learn what this demand was/is a survey was sent asking people what tools they needed in their institutions/community projects.&lt;/li&gt;

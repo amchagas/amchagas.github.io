@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>julieta | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/author/julieta/</link>
+      <atom:link href="https://amchagas.github.io/author/julieta/index.xml" rel="self" type="application/rss+xml" />
+    <description>julieta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Tue, 03 Nov 2020 11:02:20 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>julieta</title>
+      <link>https://amchagas.github.io/author/julieta/</link>
+    </image>
+    
+    <item>
+      <title>Electronics to couple NI cards and Med-associates system</title>
+      <link>https://amchagas.github.io/project/ni-medassociates_adapter/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/ni-medassociates_adapter/</guid>
+      <description>&lt;p&gt;Developed as a quick solution this system takes 5V signals from NI and triggers digital inputs on MedAssociates systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Hardware Makers</title>
+      <link>https://amchagas.github.io/project/open-hardware-makers/</link>
+      <pubDate>Tue, 03 Nov 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/open-hardware-makers/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://openhardware.space/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Hardware Makers&lt;/a&gt; is an online training series, based on the &lt;a href=&#34;https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Open Leaders program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The goal is to teach best practices that will make open source hardware projects easy to adopt, use and contribute.&lt;/p&gt;
+&lt;p&gt;Developed as a collaboration between:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/Cassandreces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julieta Arancio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/chagas_am&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andre Maia Chagas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/alexwastooshort&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Kutschera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;sponsored by the &lt;a href=&#34;https://foundation.mozilla.org/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla foundation&lt;/a&gt; and supported by &lt;a href=&#34;https://trendinafrica.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trend in Africa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
