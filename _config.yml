@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "avatar.jpg"
   name             : "Andre Maia Chagas, PhD"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"# example: "she/her"  
   bio              : "Open Science, Open Source Hardware and their implications for research and education"
   location         : "Earth"
   employer         : "University of Sussex"
@@ -58,7 +58,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
+  mastodon         : "@amchagas@neuromatch.social"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
@@ -136,11 +136,14 @@ social:
 
 
 # Analytics
-analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
-
+#analytics:
+#  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+#  google:
+#    tracking_id          :
+jekyll-analytics:
+  Plausible:
+    domain: 'amchagas.github.io'   # The domain configured in plausible
+    source: 'https://plausible.amchagas.github.io.com/js/plausible.js' # The source of the javascript
 
 # Reading Files
 include:

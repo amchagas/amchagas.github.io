@@ -38,16 +38,7 @@ GEM
       logger
     faraday-net_http (3.1.1)
       net-http
-    ffi (1.17.0-aarch64-linux-gnu)
-    ffi (1.17.0-aarch64-linux-musl)
-    ffi (1.17.0-arm-linux-gnu)
-    ffi (1.17.0-arm-linux-musl)
-    ffi (1.17.0-arm64-darwin)
-    ffi (1.17.0-x86-linux-gnu)
-    ffi (1.17.0-x86-linux-musl)
-    ffi (1.17.0-x86_64-darwin)
-    ffi (1.17.0-x86_64-linux-gnu)
-    ffi (1.17.0-x86_64-linux-musl)
+    ffi (1.17.0)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     github-pages (231)
@@ -123,6 +114,7 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-analytics (0.1.14)
     jekyll-avatar (0.8.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-coffeescript (1.2.2)
@@ -285,14 +277,14 @@ GEM
 
 PLATFORMS
   aarch64-linux
-  aarch64-linux-gnu
+  aarch64-linux
   aarch64-linux-musl
   arm-linux
-  arm-linux-gnu
+  arm-linux
   arm-linux-musl
   arm64-darwin
   x86-linux
-  x86-linux-gnu
+  x86-linux
   x86-linux-musl
   x86_64-darwin
   x86_64-linux
@@ -301,6 +293,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
+  jekyll-analytics
   jekyll-feed
   jekyll-sitemap
   webrick (~> 1.8)
