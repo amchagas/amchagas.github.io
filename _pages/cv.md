@@ -17,9 +17,13 @@ Education
 
 Work experience
 ======
-* September 2023 - present: Lecturer in Open Science
+* September 2023 - present: Assistant Professor in Open Science
   * University of Sussex - Sussex Neuroscience
-  * Duties includes: Teaching, developing tools
+  * Duties include: Teaching, developing Open source Neuroscience tools and Equipment
+
+* May 2019 - present: Scientific Officer in Bioengineering
+  * University of Sussex - Sussex Neuroscience
+  * Duties include: developing Open Source Neuroscience tools and Equipment, repair and customisation of tools
 
   
 Skills
@@ -51,6 +55,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

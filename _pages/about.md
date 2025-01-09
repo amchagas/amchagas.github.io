@@ -16,9 +16,9 @@ As others adopting and developing open hardware, I know that making it widesprea
 
 ### I currently hold three main functions at the University of Sussex:
 
-- Lecturer in Open Science
+- Assistant Professor in Open Science
 - Scientific Officer
-- Lead at then Open Research Technologies Hub
+- Lead at then [Open Research Technologies Hub](https://opensussex.org)
 
 ### I also volunteer at different projects:
 - Creator of [Open Neuroscience](https://open-neuroscience.com)
