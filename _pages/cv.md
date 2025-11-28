@@ -17,11 +17,17 @@ Education
 
 Work experience
 ======
-* September 2023 - present: Assistant Professor in Open Science
+
+* July 2025 - Present: Specialist in Strategic projects
+  * Pontifícia Universidade Católica de Campinas - Espaço Manacás
+  * Duties include: Developing Open Science tools for Research and Education
+
+
+* September 2023 - July 2025: Assistant Professor in Open Science
   * University of Sussex - Sussex Neuroscience
   * Duties include: Teaching, developing Open source Neuroscience tools and Equipment
 
-* May 2019 - present: Scientific Officer in Bioengineering
+* May 2019 - July 2025: Scientific Officer in Bioengineering
   * University of Sussex - Sussex Neuroscience
   * Duties include: developing Open Source Neuroscience tools and Equipment, repair and customisation of tools
 
